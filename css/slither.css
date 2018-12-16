@@ -1,0 +1,19 @@
+
+
+body { width:900px; margin:0; padding:0;
+       font-family:Arial, Helvetica, sans-serif;
+       font-size:10pt;
+}
+
+
+#gamearea {position:relative;  float:left; margin:20px 10px;
+            background-color:#fff;}
+
+#backpanel {position:absolute; z-index:0;}
+#gamepanel {position:absolute; z-index:1;}
+
+canvas:focus {outline:none; color:transparent;}
+canvas:active {outline:none; color:transparent;}
+
+.clearfix {clear:both; content: ""; }
+#debug {}

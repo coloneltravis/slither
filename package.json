@@ -1,0 +1,15 @@
+{
+  "name": "slither",
+  "version": "1.0.0",
+  "description": "A snake game",
+  "main": "slither.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "snake",
+    "game"
+  ],
+  "author": "Jake Bourne",
+  "license": "ISC"
+}
